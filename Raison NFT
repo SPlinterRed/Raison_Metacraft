@@ -24,4 +24,4 @@ function getTotalSupply(){
 }
 mintNFT("Raison","Red","Polo","Lantern")
 listNFTs();
-getTotalSupply;
+getTotalSupply();
